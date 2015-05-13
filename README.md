@@ -1,1 +1,1 @@
-# Super Cast Bros. Sender App
+# Super Cast Bros. Receiver App
